@@ -23,7 +23,7 @@ from pandas.api.types import CategoricalDtype
 
 
 ```python
-sample = pd.read_excel('/Users/dialiskova/Desktop/VS code/python/statistika/input/navstevnost.xlsx', parse_dates=[0])
+sample = pd.read_excel('statistics-project/navstevnost.xlsx', parse_dates=[0])
 
 sample_size = sample["datum"].count()
 sample_indexes = sample.dtypes[sample.dtypes == "object"].index
