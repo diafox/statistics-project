@@ -210,7 +210,7 @@ days_by_business.plot.bar(rot=0)
 
 
     
-[output_9_1](https://user-images.githubusercontent.com/110021631/186895678-e05b31ab-4354-4a41-8368-c3ca5781eb3c.png)
+![output_9_1](https://user-images.githubusercontent.com/110021631/186895678-e05b31ab-4354-4a41-8368-c3ca5781eb3c.png)
 
     
 
