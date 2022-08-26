@@ -210,7 +210,8 @@ days_by_business.plot.bar(rot=0)
 
 
     
-![png](output_9_1.png)
+[output_9_1](https://user-images.githubusercontent.com/110021631/186895678-e05b31ab-4354-4a41-8368-c3ca5781eb3c.png)
+
     
 
 
@@ -765,8 +766,9 @@ plt.plot(intervals_by_days["str"],
          color="red");
 ```
 
+![output_28_0](https://user-images.githubusercontent.com/110021631/186895769-e9ed59e3-f7c1-406f-a804-4849afaa9c2f.png)
 
     
-![png](output_28_0.png)
+
     
 
